@@ -31,3 +31,9 @@ escolha se deseja gerar outra arte ou sair.
 se gerar outra, escolha outra fonte.
 
 
+## Licença
+
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
+
+
+
