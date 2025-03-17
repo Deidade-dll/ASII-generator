@@ -28,6 +28,6 @@ Escolher o estilo da fonte.
 escolha se deseja gerar outra arte ou sair.
 
 
-
+se gerar outra, escolha outra fonte.
 
 
