@@ -1,5 +1,6 @@
 # ASCII Art Generator
 ![20250317_170219](https://github.com/user-attachments/assets/40dada78-9e73-4fb9-b65a-4080961328d5)
+
 Um gerador de arte ASCII simples pelo console/terminal , com vários estilos de fontes.
 
 # Funções
