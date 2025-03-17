@@ -8,9 +8,6 @@ Um gerador de arte ASCII simples pelo console/terminal , com vários estilos de 
 - Escolha de idioma (Português/Inglês).
 - Interface simples e interativa via terminal.
 
-  
-
-
 Como usar 
 
 baixar dependencias:
@@ -22,8 +19,6 @@ rode o codigo:
 ```bash
 node index.js
 ```
-
-como usar:
 
 Escolher o idioma.
 Digitar o texto para converter em ASCII.
